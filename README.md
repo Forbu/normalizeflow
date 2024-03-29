@@ -4,7 +4,13 @@ Interesting model coming from https://arxiv.org/pdf/2210.02747.pdf and https://a
 
 ### Resulting 
 
-Simple implementation
+Simple implementation without optimal transport matching
 
 !["flow"](images/images_flow.png)
+
+With optimal transport matching : 
+
+!["flowot"](images/ot_flow.png)
+
+
 
